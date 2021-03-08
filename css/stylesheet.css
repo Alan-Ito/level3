@@ -1,0 +1,18 @@
+#top-image{
+  width: 100vw;
+  height: 66vh;
+  max-height: 66.6vh;
+  background-color: lightgray;
+}
+
+#EYP{
+  position: absolute;
+  left:30px;
+  top:30px;
+}
+
+#Exceed-Your-Potencial{
+  position: absolute;
+  left:90px;
+  top:80px;
+}
