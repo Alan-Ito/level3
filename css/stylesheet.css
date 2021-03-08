@@ -16,3 +16,7 @@
   left:90px;
   top:80px;
 }
+
+#main-texts > ul{
+  list-style: none;
+}
