@@ -20,6 +20,6 @@
 #main-texts > ul{
   position: absolute;
   list-style: none;
-  top: 180px;
-  left: 130px;
+  top: 16.7vh;
+  left: 12.5vw;
 }
