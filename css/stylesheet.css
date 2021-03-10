@@ -107,3 +107,29 @@ body{
   left:50%;
   transform:translate(-50%,-50%);
 }
+
+#whynot{
+  position: absolute;
+  z-index: 8;
+  text-align: center;
+  top:850px;
+  left:50%;
+  transform:translate(-50%,-50%);
+  font-size: 46px;
+  color:#333;
+}
+
+#blonde-medals-wrapper{
+  position: absolute;
+  z-index: 8;
+  text-align: center;
+  top:1100px;
+  left:50%;
+  transform:translate(-50%,-50%);
+
+}
+
+#blonde-medals-wrapper .blonde-medal
+{
+  justify-content: space-evenly;
+}
