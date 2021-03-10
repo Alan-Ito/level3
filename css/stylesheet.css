@@ -4,7 +4,7 @@ body{
   
 }
 
-#top-image{
+#top-main{
   position:absolute;
   top: 0px;
   left:0px;
@@ -98,4 +98,12 @@ body{
 
 .power-word{
   transform:translate(120px, -960px);
+}
+
+#why-EYP{
+  position: absolute;
+  z-index: 9;
+  top:800px;
+  left:50%;
+  transform:translate(-50%,-50%);
 }
